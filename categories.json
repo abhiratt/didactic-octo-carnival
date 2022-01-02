@@ -1,0 +1,106 @@
+{
+  "0": {
+    "name": "AAPI Heritage Day",
+    "length": 3
+  },
+  "1": {
+    "name": "Android 12",
+    "length": 12
+  },
+  "2": {
+    "name": "AOSP",
+    "length": 2
+  },
+  "3": {
+    "name": "Art and Culture",
+    "length": 21
+  },
+  "4": {
+    "name": "Black History Month",
+    "length": 3
+  },
+  "5": {
+    "name": "Community Lens",
+    "length": 18
+  },
+  "6": {
+    "name": "Earth Day",
+    "length": 3
+  },
+  "7": {
+    "name": "Hispanic Heritage Month",
+    "length": 3
+  },
+  "8": {
+    "name": "Indigenous People and Nature",
+    "length": 3
+  },
+  "9": {
+    "name": "International Day of Persons with Disability",
+    "length": 3
+  },
+  "10": {
+    "name": "International Friendship Day",
+    "length": 3
+  },
+  "11": {
+    "name": "Mandalorian",
+    "length": 5
+  },
+  "12": {
+    "name": "Native American Heritage",
+    "length": 3
+  },
+  "13": {
+    "name": "Pixel 4",
+    "length": 21
+  },
+  "14": {
+    "name": "Pixel 4a",
+    "length": 16
+  },
+  "15": {
+    "name": "Pixel 5",
+    "length": 12
+  },
+  "16": {
+    "name": "Pixel 5a",
+    "length": 2
+  },
+  "17": {
+    "name": "Pixel 6",
+    "length": 33
+  },
+  "18": {
+    "name": "Pixel 6 Art",
+    "length": 14
+  },
+  "19": {
+    "name": "Pixel 6 Landscapes",
+    "length": 18
+  },
+  "20": {
+    "name": "Pixel 6 Motifs",
+    "length": 12
+  },
+  "21": {
+    "name": "Pixel Keep Looking",
+    "length": 9
+  },
+  "22": {
+    "name": "Pixel Underwater",
+    "length": 34
+  },
+  "23": {
+    "name": "Pride",
+    "length": 9
+  },
+  "24": {
+    "name": "Shot on Pixel",
+    "length": 13
+  },
+  "25": {
+    "name": "Womans Day",
+    "length": 3
+  }
+}
